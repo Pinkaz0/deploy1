@@ -1,4 +1,4 @@
-from actseguimiento import buscar_orden
+from actseg import buscar_orden
 
 
 def consultar_orden(orden):
